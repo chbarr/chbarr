@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @christianB
-- 👀 I’m interested in Java, Python and Arduino
-- 🌱 I’m currently learning Spring and Django frameworks
+- 👀 I’m interested in Java and JavaScript
+- 🌱 I’m currently learning React
 - 📫 How to reach me: chbr807@gmail.com
 
 <!---
